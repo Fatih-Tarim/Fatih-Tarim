@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Python, Django, REST framework AWS**
+- 🌱 I’m currently learning **Python, Django, REST framework, AWS**
 
 - 📫 How to reach me **dev.fatihtarim@gmail.com**
 
